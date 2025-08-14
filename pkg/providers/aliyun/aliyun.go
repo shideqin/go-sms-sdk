@@ -15,8 +15,8 @@ import (
 	"strings"
 	"time"
 
-	"go-sms-sdk/internal/utils"
-	"go-sms-sdk/pkg/sms"
+	"github.com/shideqin/go-sms-sdk/internal/utils"
+	"github.com/shideqin/go-sms-sdk/pkg/sms"
 )
 
 // AliyunSMS 阿里云短信服务
