@@ -6,8 +6,8 @@ import (
 	"log"
 	"time"
 
-	"go-sms-sdk/pkg/providers/aliyun"
-	"go-sms-sdk/pkg/sms"
+	"github.com/shideqin/go-sms-sdk/pkg/providers/aliyun"
+	"github.com/shideqin/go-sms-sdk/pkg/sms"
 )
 
 func main() {
